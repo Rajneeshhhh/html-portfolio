@@ -1,0 +1,43 @@
+.myback{
+   
+    background-color: #ac9d8e;
+}
+
+.myname{
+    color: blue;
+}
+
+.desc{
+    color: black;
+    font-weight: normal;
+}
+
+img{
+    border-radius: 3%;
+}
+ 
+.eduti{
+    position: relative;
+    font-family:sans-serif;
+    font-weight:bold;
+    top: 10px;
+    left: 70px;
+    color: rgba(103, 68, 36, 0.911);;
+}
+
+.list-group{
+    width: 90%;
+}
+
+.pb-2{
+    font-weight: bold;
+    color: rgba(103, 68, 36, 0.825);
+}
+
+.skills{
+    background-color:#f0eae5;
+}
+
+.footer{
+    background-color: #ac9d8e;
+}
